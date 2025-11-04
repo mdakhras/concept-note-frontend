@@ -4,11 +4,6 @@
       "route": "/api/session",
       "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/session",
       "statusCode": 200
-    },
-    {
-      "route": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/api/*",
-      "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/",
-      "statusCode": 200
     }
   ]
 }
