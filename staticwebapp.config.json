@@ -2,6 +2,7 @@
   "routes": [
     {
       "route": "/api/*",
+      "serve": "/api/*",
       "methods": [
         "post",
         "head",
