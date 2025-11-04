@@ -1,8 +1,8 @@
 {
   "routes": [
     {
-      "route": "https://calm-mud-0342ef403.1.azurestaticapps.net/api/*",
-      "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/",
+      "route": "/api/session",
+      "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/session",
       "statusCode": 200
     },
     {
