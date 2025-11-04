@@ -2,7 +2,8 @@
   "routes": [
     {
       "route": "/api/session",
-      "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/session",
+      "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net",
+      "redirect": "/session",
       "statusCode": 200
     }
   ]
