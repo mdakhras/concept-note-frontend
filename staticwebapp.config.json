@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route": "/api/*",
+      "route": "https://calm-mud-0342ef403.1.azurestaticapps.net/api/*",
       "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-01-hpdpguhdd8fugaed.westeurope-01.azurewebsites.net/",
       "statusCode": 200
     }
