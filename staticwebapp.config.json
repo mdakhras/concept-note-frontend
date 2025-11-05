@@ -1,1 +1,9 @@
-{}
+{
+  "routes": [
+    {
+      "route": "/api/session",
+      "rewrite": "https://iom-d-we-datallmpoc-concept-n-web-02-e2g2h2cbf8behbcc.westeurope-01.azurewebsites.net",
+      "statusCode": 200
+    }
+  ]
+}
